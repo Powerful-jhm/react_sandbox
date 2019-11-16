@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "jsx": "react",
+    "watch": true,
+    "target": "es5",
+    "lib": ["es2015", "es2016"]
+  }
+}
